@@ -1,0 +1,25 @@
+{
+  "name": "Programação do Culto",
+  "short_name": "Culto",
+  "description": "Gestão de programação e etapas do culto em tempo real",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1b2e",
+  "theme_color": "#0d1b2e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICAgIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iOTYiIGZpbGw9IiMwZDFiMmUiLz4KICAgIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTUwIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOWEyMjciIHN0cm9rZS13aWR0aD0iMTgiLz4KICAgIDxsaW5lIHgxPSIyNTYiIHkxPSIyNTYiIHgyPSIyNTYiIHkyPSIxNTAiIHN0cm9rZT0iI2M5YTIyNyIgc3Ryb2tlLXdpZHRoPSIxOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8bGluZSB4MT0iMjU2IiB5MT0iMjU2IiB4Mj0iMzMwIiB5Mj0iMjkwIiBzdHJva2U9IiNjOWEyMjciIHN0cm9rZS13aWR0aD0iMTgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxNiIgZmlsbD0iI2M5YTIyNyIvPgogIDwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICAgIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iOTYiIGZpbGw9IiMwZDFiMmUiLz4KICAgIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTUwIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOWEyMjciIHN0cm9rZS13aWR0aD0iMTgiLz4KICAgIDxsaW5lIHgxPSIyNTYiIHkxPSIyNTYiIHgyPSIyNTYiIHkyPSIxNTAiIHN0cm9rZT0iI2M5YTIyNyIgc3Ryb2tlLXdpZHRoPSIxOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8bGluZSB4MT0iMjU2IiB5MT0iMjU2IiB4Mj0iMzMwIiB5Mj0iMjkwIiBzdHJva2U9IiNjOWEyMjciIHN0cm9rZS13aWR0aD0iMTgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxNiIgZmlsbD0iI2M5YTIyNyIvPgogIDwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
